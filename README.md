@@ -27,7 +27,7 @@ This mirrors common SAP reporting layers (ECC/S4 → BW → Reporting).
 
 ---
 
-## Dashboards
+## Dashboards (Published on Tableau Public)
 
 ### 1. Executive Budget Overview
 **Purpose:**  
@@ -38,6 +38,11 @@ Provide leadership with a high-level view of budget vs actual performance and ke
 - Variance ($ and %)
 - Monthly performance trends
 - Cost centers driving over/under spend
+
+**View Dashboard:**  
+https://public.tableau.com/app/profile/maria.pratyusha/viz/FinancePerformanceBudgetAnalytics/ExecutiveKPIVarianceOverview
+
+![Executive Budget Overview](dashboards/Executive KPI & Variance .png)
 
 ---
 
@@ -50,6 +55,11 @@ Enable finance partners to analyze budget performance at the cost center level a
 - Monthly budget vs actual trends
 - Top GL accounts contributing to variance
 
+**View Dashboard:**  
+https://public.tableau.com/app/profile/maria.pratyusha/viz/FinancePerformanceBudgetAnalytics/CostCenterDrilldown
+
+![Cost Center Drilldown](dashboards/Cost Center Drilldown.png)
+
 ---
 
 ### 3. Financial Control & Spend Mix
@@ -61,6 +71,11 @@ Support financial planning, governance, and control by providing an enterprise-w
 - Cumulative actual vs budget trends
 - Spend by account type (OPEX vs CAPEX)
 - Spend distribution by department
+
+**View Dashboard:**  
+https://public.tableau.com/app/profile/maria.pratyusha/viz/FinancePerformanceBudgetAnalytics/FinancialControlandSpendMix
+
+![Financial Control & Spend Mix](dashboards/Financial Control & Spend Mix .png)
 
 ---
 
