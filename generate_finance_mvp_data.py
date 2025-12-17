@@ -15,7 +15,7 @@ import pandas as pd
 
 @dataclass
 class Config:
-    out_dir: str = "finance_mvp_data"
+    out_dir: str = "data"
     seed: int = 42
 
     start_date: date = date(2024, 1, 1)
