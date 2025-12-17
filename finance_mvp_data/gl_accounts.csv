@@ -1,0 +1,19 @@
+gl_account,gl_name,account_type,gl_group
+600000,Salaries & Wages,OPEX,Payroll
+601000,Benefits,OPEX,Payroll
+602000,Contractors,OPEX,Payroll
+610000,Software & Subscriptions,OPEX,IT
+611000,Cloud Infrastructure,OPEX,IT
+620000,Travel & Entertainment,OPEX,G&A
+630000,Marketing Spend,OPEX,Sales
+640000,Office Supplies,OPEX,G&A
+650000,Rent & Utilities,OPEX,Facilities
+660000,Professional Services,OPEX,G&A
+670000,Training & Education,OPEX,G&A
+680000,Insurance,OPEX,G&A
+700000,Capital Equipment,CAPEX,Capex
+701000,IT Hardware,CAPEX,Capex
+702000,Facility Improvements,CAPEX,Capex
+710000,Depreciation,OPEX,G&A
+720000,Freight & Shipping,OPEX,Ops
+730000,Maintenance,OPEX,Facilities

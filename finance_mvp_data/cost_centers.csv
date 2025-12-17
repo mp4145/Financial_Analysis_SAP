@@ -1,0 +1,13 @@
+cost_center_id,cost_center_name,department,manager,parent_cost_center_id
+CC0001,FP&A Cost Center,FP&A,A. Patel,
+CC0002,Accounting Cost Center,Accounting,J. Kim,
+CC0003,Procurement Cost Center,Procurement,M. Chen,
+CC0004,Treasury Cost Center,Treasury,S. Rivera,
+CC0005,Operations Cost Center,Operations,D. Johnson,
+CC0006,Sales Ops Cost Center,Sales Ops,L. Singh,
+CC0007,IT Finance Cost Center,IT Finance,N. Garcia,
+CC0008,Corporate Cost Center,Corporate,K. Brown,
+CC0009,R&D Cost Center,R&D,R. Ahmed,
+CC0010,Manufacturing Cost Center,Manufacturing,T. Nguyen,
+CC0011,Logistics Cost Center,Logistics,P. Wilson,
+CC0012,Facilities Cost Center,Facilities,E. Martinez,
