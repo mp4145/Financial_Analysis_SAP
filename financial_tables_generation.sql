@@ -129,3 +129,7 @@ JOIN gl_accounts g ON f.gl_account = g.gl_account
 GROUP BY 1,2,3,4
 ORDER BY 1,2;
 
+-- Download the mart view to upload to Tableau public
+SELECT *
+FROM finance_mart_monthly
+ORDER BY fiscal_year, fiscal_period, cost_center_id, gl_account;
